@@ -3,7 +3,7 @@ package fr.xebia.katas.gildedrose;
 import java.util.ArrayList;
 import java.util.List;
 
-// TODO Refactoring à prévoir
+// TODO Refactoring Ã  prÃ©voir
 public class Inn {
     private List<Item> items;
 
